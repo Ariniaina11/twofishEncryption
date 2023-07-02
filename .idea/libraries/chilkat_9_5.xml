@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="chilkat-9.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Outils JEE/chilkat-9.5.0-jdk16-x64" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../Outils JEE/chilkat-9.5.0-jdk16-x64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../Outils JEE/chilkat-9.5.0-jdk16-x64" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Outils JEE/chilkat-9.5.0-jdk16-x64" recursive="false" />
+  </library>
+</component>
